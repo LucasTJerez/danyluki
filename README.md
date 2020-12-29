@@ -1,8 +1,4 @@
 # Timbuktu
 
-
-
-
-
-
-doe a deer
+ 
+# Twigs Rule, but luki is better
