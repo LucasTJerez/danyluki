@@ -1,1 +1,1 @@
-print("i like poop")
+print("i like poop, poop funny")
